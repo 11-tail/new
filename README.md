@@ -2242,6 +2242,12 @@ align-items: center;
 * 使用自定义事件
 * 使用第三方实例
 
+## vue.cli中怎样使用自定义的组件?有遇到过哪些问题吗?
+* 第一步：在components目录新建你的组件文件(smithButton.vue)，script一定要export default {
+* 第二步：在需要用的页面(组件)中导入：import smithButton from ‘../components/smithButton.vue’
+* 第三步：注入到vue的子组件的components属性上面,components:{smithButton}
+* 第四步：在template视图view中使用，
+* 问题有：smithButton命名，使用的时候则smith-button。
 
 ## ===============================================
 ## 未解决的题目
