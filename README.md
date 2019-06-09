@@ -10,6 +10,9 @@ https://www.cnblogs.com/fengxiongZz/p/8191503.html
 
 http://www.bslxx.com/a/mianshiti/tiku/2017/1019/953.html
 
+移动端适配
+https://blog.csdn.net/bocaidada/article/details/82769025
+
 ### 1.跨域问题的解决办法：
 
 1.jsonp
