@@ -1,4 +1,4 @@
-8年前端开发的知识点沉淀# 常见问题收集
+# 常见问题收集
 
 https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions  
 
