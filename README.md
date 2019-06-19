@@ -13,6 +13,10 @@ http://www.bslxx.com/a/mianshiti/tiku/2017/1019/953.html
 移动端适配
 https://blog.csdn.net/bocaidada/article/details/82769025
 
+前端面试考点多？看这些文章就够了（2019年6月更新版）
+https://juejin.im/post/5aae076d6fb9a028cc6100a9
+
+
 ### 1.跨域问题的解决办法：
 
 1.jsonp
